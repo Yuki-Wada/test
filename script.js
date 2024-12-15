@@ -1,5 +1,5 @@
 // Initialize the page.
 window.onload = function() {
     // Initialize the Kii Cloud SDK.
-    alert("12aa345678");
+    alert("12aa345er678");
 }
