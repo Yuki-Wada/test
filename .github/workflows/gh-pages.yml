@@ -38,7 +38,10 @@ jobs:
       - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} # --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
+        uses: peaceiris/actions-gh-pages@v3
+        # uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        # if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
