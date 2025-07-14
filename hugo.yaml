@@ -198,4 +198,4 @@ module:
     min: 0.110.0
   imports:
     - path: github.com/google/docsy
-      disable: true
+      disable: false
