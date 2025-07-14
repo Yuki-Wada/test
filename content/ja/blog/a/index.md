@@ -7,7 +7,7 @@ date: '2025-01-03'
 description: 'この記事の概要です。 タイトル名の下に記事の見出しとして表示されます。
 
   '
-draft: true
+draft: false
 math: true
 slug: template
 title: タイトル名
