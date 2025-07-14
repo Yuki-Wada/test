@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechOS on 勉強ノート</title>
+    <link>https://Yuki-Wada.github.io/test/</link>
+    <description>Recent content in TechOS on 勉強ノート</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://Yuki-Wada.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ページ紹介</title>
+      <link>https://Yuki-Wada.github.io/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Yuki-Wada.github.io/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/</guid>
+      <description>&lt;link rel=&#34;preload&#34; as=&#34;image&#34; href=&#34;https://Yuki-Wada.github.io/test/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/featured-background_hu4003775461251110261.jpg&#34; media=&#34;(max-width: 1200px)&#34;&gt;&#xA;&lt;link rel=&#34;preload&#34; as=&#34;image&#34; href=&#34;https://Yuki-Wada.github.io/test/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/featured-background_hu2312927490661001000.jpg&#34; media=&#34;(min-width: 1200px)&#34;&gt;&#xA;&lt;style&gt;&#xA;#td-cover-block-0 {&#xA;  background-image: url(/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/featured-background_hu4003775461251110261.jpg);&#xA;}&#xA;@media only screen and (min-width: 1200px) {&#xA;  #td-cover-block-0 {&#xA;    background-image: url(/test/%E3%83%9A%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B/featured-background_hu2312927490661001000.jpg);&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;section id=&#34;td-cover-block-0&#34; class=&#34;row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark&#34;&gt;&#xA;  &lt;div class=&#34;col-12&#34;&gt;&#xA;    &lt;div class=&#34;container td-overlay__inner&#34;&gt;&#xA;      &lt;div class=&#34;text-center&#34;&gt;&#xA;        &lt;h1 class=&#34;display-1 mt-0 mt-md-5 pb-4&#34;&gt;About Goldydocs&lt;/h1&gt;&#xA;        &#xA;        &lt;div class=&#34;pt-3 lead&#34;&gt;&#xA;          &#xA;              &lt;p class=&#34;mt-5&#34;&gt;A sample site using the Docsy Hugo theme.&lt;/p&gt;&#xA;&#xA;          &#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;/section&gt;&#xA;&#xA;&lt;div&gt;&lt;a id=&#34;td-block-1&#34; class=&#34;td-offset-anchor&#34;&gt;&lt;/a&gt;&lt;/div&gt;&#xA;&lt;section class=&#34;row td-box td-box--1 position-relative td-box--height-auto&#34;&gt;&#xA;&lt;div class=&#34;col-12&#34;&gt;&#xA;&lt;div class=&#34;container text-center td-arrow-down&#34;&gt;&#xA;&lt;div class=&#34;h4 mb-0&#34;&gt;&#xA;&lt;p&gt;Goldydocs is a sample site using the &lt;a href=&#34;https://github.com/google/docsy&#34;&gt;Docsy&lt;/a&gt;&#xA;Hugo theme that shows what it can do and provides you with a template site&#xA;structure. It’s designed for you to clone and edit as much as you like. See the&#xA;different sections of the documentation and site for more ideas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>検索結果</title>
+      <link>https://Yuki-Wada.github.io/test/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Yuki-Wada.github.io/test/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
