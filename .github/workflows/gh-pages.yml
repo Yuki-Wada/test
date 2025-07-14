@@ -1,6 +1,7 @@
 name: Deployment to GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main  # <-- specify the branch you want to deploy from
